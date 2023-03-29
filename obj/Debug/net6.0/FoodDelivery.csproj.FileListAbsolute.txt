@@ -1,0 +1,15 @@
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\bin\Debug\net6.0\FoodDelivery.exe
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\bin\Debug\net6.0\FoodDelivery.deps.json
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\bin\Debug\net6.0\FoodDelivery.runtimeconfig.json
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\bin\Debug\net6.0\FoodDelivery.dll
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\bin\Debug\net6.0\FoodDelivery.pdb
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\obj\Debug\net6.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\obj\Debug\net6.0\FoodDelivery.AssemblyInfo.cs
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\obj\Debug\net6.0\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\obj\Debug\net6.0\FoodDelivery.dll
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\obj\Debug\net6.0\refint\FoodDelivery.dll
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\obj\Debug\net6.0\FoodDelivery.pdb
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\obj\Debug\net6.0\FoodDelivery.genruntimeconfig.cache
+C:\Users\vyten\OneDrive\Desktop\FoodDelivery\obj\Debug\net6.0\ref\FoodDelivery.dll
